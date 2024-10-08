@@ -2,7 +2,7 @@
 
 I have built a simple application to retrieve images that have similar histogram with images in database.
 
-To run code, the below Python librarys is necessary:
+To run code, the below Python libraries is necessary:
 ```
 pickle
 cv2
